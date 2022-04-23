@@ -1,0 +1,24 @@
+{
+  "name": "node_js",
+  "version": "1.0.0",
+  "description": "LAtihan Pemograman Web menggunakan Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "ok"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ok"
+  },
+  "keywords": [
+    "ok"
+  ],
+  "author": "rysa",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mysql": "^2.18.1"
+  }
+}
